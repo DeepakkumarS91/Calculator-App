@@ -11,7 +11,7 @@ Install Enzyme by
 1. $ npm i -D enzyme
 2. $ npm i -D react-test-renderer enzyme-adapter-react-16
 
-Shallow rendering - Tests the React component as unit but it avoids testing behaviour of Children
+Shallow rendering - Tests the React component as unit but it avoids testing behaviour of Children. 
 mount() - is used to test the children behavoir or during lifecycle methods.
 Snapshot() -will create .snap file which will let you know any changes made in React component or any unexpected changes. 
 
