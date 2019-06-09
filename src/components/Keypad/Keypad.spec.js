@@ -57,3 +57,4 @@ describe('checking the Keypad component',()=>{
         wrapper.setProps({operators:['+','-','*','/']});
         expect(wrapper.find('.operators-container').text()).toEqual('+-*/');
     })    
+});

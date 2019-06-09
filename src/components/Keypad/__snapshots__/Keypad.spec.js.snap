@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mounted Keypad Should render correctly 1`] = `ReactWrapper {}`;
+
+exports[`checking the Keypad component Snapshot of the Keypad component 1`] = `ShallowWrapper {}`;
